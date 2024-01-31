@@ -49,11 +49,3 @@ Fique à vontade para contribuir com melhorias. Siga estas etapas:
 3. Faça commit das alterações: `git commit -m 'Adiciona nova feature'`.
 4. Envie as alterações para a branch: `git push origin feature/nova-feature`.
 5. Abra um Pull Request.
-
-## Contato
-
-Se tiver dúvidas ou sugestões, entre em contato conosco!
-
----
-
-**Equipe UFVNW**
